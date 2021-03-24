@@ -5,5 +5,6 @@ body{
 
 h1{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: brown;
+    color: blue;
+    font-size: 40px;
 }
